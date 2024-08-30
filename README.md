@@ -56,7 +56,7 @@ Previous_week_Reveneue = CALCULATE(
 - **Week On Week change:**
   - Revenue increased by 28.8%
   - Total Transaction Amount & Count increased by specific percentage accordingly
-  - Customer count increased by xx%
+  - Customer count increased by specific percentage accordingly
 - **Overview Year To Date:**
   - Overall revenue is 57M
   - Total interest is 8M
