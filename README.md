@@ -68,7 +68,7 @@ Previous_week_Reveneue = CALCULATE(
   - Overall Delinquent rate is 6.06%
  
     
-## Screenshots
+## Power BI Dashboards Images
 ![Credit_Card_Report - Customer](https://github.com/user-attachments/assets/0cf3aff9-d5a7-4755-9883-828b1ba054b3)
 ![Credit_Card_Report - Transaction](https://github.com/user-attachments/assets/9acb0e4a-89f6-47c5-ba1f-8cff9334b576)
 
